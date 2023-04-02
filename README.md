@@ -17,6 +17,6 @@
 - Web Application
 
 ## Final ##
-  ([Web page] ([link]([https://github.com/chayakonchanlun/AIprototype65](https://kittikhun62.github.io/LegalDoc_NLP/?fbclid=IwAR1gTAtqgBZ5yZcI0xPBf7w6Td9Iq7a9LV9orJOXF73AmoyIugLVYMOALLY))
+  ([Web page] ([link](https://kittikhun62.github.io/LegalDoc_NLP/?fbclid=IwAR1gTAtqgBZ5yZcI0xPBf7w6Td9Iq7a9LV9orJOXF73AmoyIugLVYMOALLY))
+  ([Web App] ([link]([https://github.com/chayakonchanlun/AIprototype65]
   
-  ([Web App] ([link]([https://github.com/chayakonchanlun/AIprototype65](https://github.com/kittikhun62/guts_video_visualization?fbclid=IwAR2-mW_LQgq8lyRw3jL_QqO4R5Log-KbzidqrCXq3dYWk63bzmvsbAXdY0Q))
